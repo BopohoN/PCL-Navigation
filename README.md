@@ -13,3 +13,10 @@ Need Tango or other AR device support
 * PCL-1.8
 * VTK-6.3
 * QT4.3.1
+
+PointCloudSender
+Need Tango device
+
+* Unity 5.6.0f
+* Visual Studio 2017 community
+* Tango-SDK for Unity
