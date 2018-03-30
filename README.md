@@ -1,4 +1,4 @@
-# PCL-Navigation
+## PCL-Navigation
 PCL &amp; aStar Navigation
 
 This release has been tested on Linux Ubuntu 14.07 
@@ -16,6 +16,7 @@ Need Tango or other AR device support
 
 PointCloudSender
 Need Tango device
+# this program will be rebuild in a new computer
 
 * Unity 5.6.0f
 * Visual Studio 2017 community
