@@ -16,7 +16,7 @@ Need Tango or other AR device support
 
 PointCloudSender
 Need Tango device
-#### this program will be rebuild in a new computer
+#### this program must be rebuild to open in a new computer
 
 * Unity 5.6.0f
 * Visual Studio 2017 community
