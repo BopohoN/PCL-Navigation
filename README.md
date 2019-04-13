@@ -1,5 +1,5 @@
 # PCL-Navigation
-
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/RavenTKF/PCL-Navigation/blob/master/LICENSE)
 This release has been tested on Linux Ubuntu 14.07 
 * PCLversion： 1.8 
 * VTKversion： 6.3 
